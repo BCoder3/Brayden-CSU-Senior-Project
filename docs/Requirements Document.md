@@ -1,5 +1,25 @@
 Requirements Document
 ========
+NOTES, DELETE LATER:
+ideas:
+moving character
+moving camera
+interacting with objects
+interacting with inventory
+changing volume
+changing brightness
+pausing
+
+what machine to use
+how to download game
+how to launch game
+how to start game
+how to exit game
+
+how to time the testing segments of the game
+how to record feedback from testers
+
+presenting narrative
 
 Requirement #:
 

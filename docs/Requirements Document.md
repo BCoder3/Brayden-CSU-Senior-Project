@@ -7,7 +7,7 @@ Requirement #:      Requirement Type:      Event/BUC/PUC #:
 
 Rationale:
 
-Originator
+Originator:
 Fit Criterion:
 
 Customer Satisfaction:      Customer Dissatisfaction:

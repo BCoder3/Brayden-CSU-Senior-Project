@@ -21,7 +21,6 @@ changing volume
 changing brightness
 presenting narrative
 
-The following template was created by Volere.
 Requirement #:
 ------------------
 

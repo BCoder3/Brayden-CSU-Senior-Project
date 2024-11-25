@@ -21,6 +21,8 @@ how to record feedback from testers
 
 presenting narrative
 
+Example template:
+Template created by Volere.
 Requirement #:
 ------------------
 
@@ -31,6 +33,35 @@ Event/BUC/PUC #:
 Description: 
 
 Rationale: 
+
+Originator: 
+
+Fit Criterion: 
+
+Customer Satisfaction: 
+
+Customer Dissatisfaction: 
+
+Priority: 
+
+Dependencies: 
+
+Conflicts: 
+
+Supporting Materials: 
+
+History: 
+
+Requirement #: 1
+------------------
+
+Requirement Type:
+
+Event/BUC/PUC #:
+
+Description: The player shall be able to move their avatar within the game world.
+
+Rationale: The player should be able to manipulate the location of the character in order to play the game
 
 Originator: 
 

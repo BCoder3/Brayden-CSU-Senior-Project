@@ -84,201 +84,201 @@ History: Development log
 Requirement #: 2
 ------------------
 
-Requirement Type:
+Requirement Type: Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: Running game
 
-Description: 
+Description: The player shall be able to change their avatar's visual perspective, or camera
 
-Rationale: 
+Rationale: The player should be able to manipulate where their character looks in order to interact with the game world
 
-Originator: 
+Originator:  Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by determining if player persepctive is capable of maneuvering upon game start
 
-Customer Satisfaction: 
+Customer Satisfaction: 2
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 5
 
-Priority: 
+Priority: Primary
 
-Dependencies: 
+Dependencies: Functional game
 
-Conflicts: 
+Conflicts: None
 
 Supporting Materials: 
 
-History: 
+History: Development log
 
 Requirement #: 3
 ------------------
 
-Requirement Type:
+Requirement Type: Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: Running game
 
-Description: 
+Description: The player shall be able to interact with the virtual environment presented by the game
 
-Rationale: 
+Rationale: The player should be able to interact with their character's surroudnings in order to progress through the game
 
-Originator: 
+Originator: Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by determining if player is able to interact with interactable objects in the game world upon game start
 
-Customer Satisfaction: 
+Customer Satisfaction: 2
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 5
 
-Priority: 
+Priority: Primary
 
-Dependencies: 
+Dependencies: Functional game
 
-Conflicts: 
+Conflicts: None
 
 Supporting Materials: 
 
-History: 
+History: Development log
 
 Requirement #: 4
 ------------------
 
-Requirement Type:
+Requirement Type: Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: Running game
 
-Description: 
+Description: The player shall be able to inspect and interact with their character's inventory, or collected items, in the game world
 
-Rationale: 
+Rationale: The player should be able to interact with their inventory in order to select items to be used to progress through the game
 
-Originator: 
+Originator: Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by determining if player is able to inspect and interact with their character's inventory upon game start
 
-Customer Satisfaction: 
+Customer Satisfaction: 2
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 5
 
-Priority: 
+Priority: Primary
 
-Dependencies: 
+Dependencies: Functional game
 
-Conflicts: 
+Conflicts: None
 
 Supporting Materials: 
 
-History: 
+History: Development log
 
 Requirement #: 5
 ------------------
 
-Requirement Type:
+Requirement Type: Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: Running game
 
-Description: 
+Description: The player shall be able to pause the active game world to stop it from running in real time
 
-Rationale: 
+Rationale: The player should be able to pause the game in order to adjust game settings, or to take a break when wanted
 
-Originator: 
+Originator: Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by determining if player is able to pause the game environment upon game start
 
-Customer Satisfaction: 
+Customer Satisfaction: 3
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 5
 
-Priority: 
+Priority: Primary
 
-Dependencies: 
+Dependencies: Functional game
 
-Conflicts: 
+Conflicts: None
 
 Supporting Materials: 
 
-History: 
+History: Development log
 
 Requirement #: 6
 ------------------
 
-Requirement Type:
+Requirement Type: Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: None
 
-Description: 
+Description: The player must use a machine capable of installing, launching, and running the game to play or test the product
 
-Rationale: 
+Rationale: In order to play the Puzzle Heart game, a user should first have a machine that is able to run the program to play it.
 
-Originator: 
+Originator: Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by determining if a user's machine is fit to install and run the Puzzle Heart game
 
-Customer Satisfaction: 
+Customer Satisfaction: 3
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 5
 
-Priority: 
+Priority: Foundational
 
-Dependencies: 
+Dependencies: Budget for a machine
 
-Conflicts: 
+Conflicts: Without a machine capable of running the game, then all further use cases for the product would be impossible to achieve
 
 Supporting Materials: 
 
-History: 
+History: N/A
 
 Requirement #: 7
 ------------------
 
-Requirement Type:
+Requirement Type: Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: Having a machine capable of downloading the Puzzle Heart game
 
-Description: 
+Description: The player shall be able to download the files required to play the game upon acquisition or playtesting session
 
-Rationale: 
+Rationale: The player must first install the game before being able to play it
 
-Originator: 
+Originator: Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by determining if a user's copy of the game is able to be launched upon successful download
 
-Customer Satisfaction: 
+Customer Satisfaction: 3
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 5
 
-Priority: 
+Priority: Foundational
 
-Dependencies: 
+Dependencies: Having a machine
 
-Conflicts: 
+Conflicts: Without a machine capable of downloading the game, a user cannot play the game on their machine, and there all further use cases for the product would be impossible to achieve
 
 Supporting Materials: 
 
-History: 
+History: N/A
 
 Requirement #: 8
 ------------------
 
-Requirement Type:
+Requirement Type: Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: Having a downloaded copy of the Puzzle Heart game
 
-Description: 
+Description: The player shall be able to launch the Puzzle Heart game after downloading the files required to do so
 
-Rationale: 
+Rationale: In order to run and play the game, it must first be successfully launched by using the downloaded files necessary
 
-Originator: 
+Originator: Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by determining if the game can be ran after launching
 
-Customer Satisfaction: 
+Customer Satisfaction: 3
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 5
 
-Priority: 
+Priority: Foundational
 
-Dependencies: 
+Dependencies: Having downloaded the game
 
-Conflicts: 
+Conflicts: If the game cannot be launched to begin play, then the game cannot be played, and so all further use cases for the product would be impossible to achieve
 
 Supporting Materials: 
 
@@ -287,7 +287,7 @@ History:
 Requirement #: 9
 ------------------
 
-Requirement Type:
+Requirement Type: Functional
 
 Event/BUC/PUC #:
 
@@ -316,7 +316,7 @@ History:
 Requirement #: 10
 ------------------
 
-Requirement Type:
+Requirement Type: Functional
 
 Event/BUC/PUC #:
 
@@ -345,7 +345,7 @@ History:
 Requirement #: 11
 ------------------
 
-Requirement Type:
+Requirement Type: Functional
 
 Event/BUC/PUC #:
 
@@ -374,7 +374,7 @@ History:
 Requirement #: 12
 ------------------
 
-Requirement Type:
+Requirement Type: Functional
 
 Event/BUC/PUC #:
 
@@ -403,7 +403,7 @@ History:
 Requirement #: 13
 ------------------
 
-Requirement Type:
+Requirement Type: Non-Functional
 
 Event/BUC/PUC #:
 
@@ -432,7 +432,7 @@ History:
 Requirement #: 14
 ------------------
 
-Requirement Type:
+Requirement Type: Non-Functional
 
 Event/BUC/PUC #:
 
@@ -461,7 +461,7 @@ History:
 Requirement #: 15
 ------------------
 
-Requirement Type:
+Requirement Type: Non-Functional
 
 Event/BUC/PUC #:
 

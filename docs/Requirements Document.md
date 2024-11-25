@@ -1,24 +1,24 @@
 Requirements Document
 ========
 NOTES, DELETE LATER:
-ideas:
+
+Functional requirements:
 moving character
 moving camera
 interacting with objects
 interacting with inventory
-changing volume
-changing brightness
 pausing
-
 what machine to use
 how to download game
 how to launch game
 how to start game
 how to exit game
-
 how to time the testing segments of the game
 how to record feedback from testers
 
+Non-functional requirements:
+changing volume
+changing brightness
 presenting narrative
 
 Example template:
@@ -52,31 +52,32 @@ Supporting Materials:
 
 History: 
 
+Template created by Volere.
 Requirement #: 1
 ------------------
 
-Requirement Type:
+Requirement Type: Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: Running game
 
 Description: The player shall be able to move their avatar within the game world.
 
 Rationale: The player should be able to manipulate the location of the character in order to play the game
 
-Originator: 
+Originator: Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by determining if player avatar is capable of movement upon game start
 
-Customer Satisfaction: 
+Customer Satisfaction: 2
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 5
 
-Priority: 
+Priority: Primary
 
-Dependencies: 
+Dependencies: Functional game
 
-Conflicts: 
+Conflicts: None
 
 Supporting Materials: 
 
-History: 
+History: Development log

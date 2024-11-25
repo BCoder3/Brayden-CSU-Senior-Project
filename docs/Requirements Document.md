@@ -22,11 +22,12 @@ how to record feedback from testers
 presenting narrative
 
 Requirement #:
+------------------
 
 Requirement Type:
 
 Event/BUC/PUC #:
-------------------
+
 Description: 
 
 Rationale: 

@@ -1,16 +1,23 @@
 Requirements Document
 ========
 
-Requirement #:      Requirement Type:        Event/BUC/PUC #:
+Requirement #:
+Requirement Type:
+Event/BUC/PUC #:
 ------------------
-#Description:#
+Description: 
 
-Rationale:
+Rationale: 
 
-Originator:
-Fit Criterion:
+Originator: 
+Fit Criterion: 
 
-Customer Satisfaction:      Customer Dissatisfaction:
-Priority:      Dependencies:      Conflicts:
-Supporting Materials:
-History:
+Customer Satisfaction: 
+Customer Dissatisfaction: 
+
+Priority: 
+Dependencies: 
+Conflicts: 
+
+Supporting Materials: 
+History: 

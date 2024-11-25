@@ -1,7 +1,7 @@
 Requirements Document
 ========
 
-Requirement #:      Requirement Type:      Event/BUC/PUC #:
+Requirement #:      Requirement Type:        Event/BUC/PUC #:
 ------------------
 #Description:#
 

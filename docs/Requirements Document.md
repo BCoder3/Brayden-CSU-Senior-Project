@@ -3,23 +3,23 @@ Requirements Document
 NOTES, DELETE LATER:
 
 Functional requirements:
-moving character
-moving camera
-interacting with objects
-interacting with inventory
-pausing
-what machine to use
-how to download game
-how to launch game
-how to start game
-how to exit game
-how to time the testing segments of the game
-how to record feedback from testers
+1 moving character
+2 moving camera
+3 interacting with objects
+4 interacting with inventory
+5 pausing
+6 what machine to use
+7 how to download game
+8 how to launch game
+9 how to start game
+10 how to exit game
+11 how to time the testing segments of the game
+12 how to record feedback from testers
 
 Non-functional requirements:
-changing volume
-changing brightness
-presenting narrative
+13 changing volume
+14 changing brightness
+15 presenting narrative
 
 The following template was created by Volere:
 Requirement #:
@@ -281,207 +281,207 @@ Conflicts: If the game cannot be launched to begin play, then the game cannot be
 
 Supporting Materials: 
 
-History: 
+History: N/A
 
 Requirement #: 9
 ------------------
 
 Requirement Type: Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: Launching the game
 
-Description: 
+Description: The player shall be able to start playing the game after a successful launch of the product
 
-Rationale: 
+Rationale: To play the Puzzle Heart game, a user must first start its running sequence
 
-Originator: 
+Originator: Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by determining if the game can be played after starting
 
-Customer Satisfaction: 
+Customer Satisfaction: 2
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 5
 
-Priority: 
+Priority: Foundational
 
-Dependencies: 
+Dependencies: Having launched the game
 
-Conflicts: 
+Conflicts: If the game cannot be started, then the game cannot be played, and so all further use cases for the product would be impossible to achieve
 
 Supporting Materials: 
 
-History: 
+History: N/A
 
 Requirement #: 10
 ------------------
 
 Requirement Type: Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: Starting the game
 
-Description: 
+Description: The player shall be able to stop and exit the game at any point after starting it, or upon completing the game
 
-Rationale: 
+Rationale: When a user wishes to exit the game, they should be freely able to do so at any point they wish
 
-Originator: 
+Originator: Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by determining if the game can be stopped and exited after starting
 
-Customer Satisfaction: 
+Customer Satisfaction: 1
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 5
 
-Priority: 
+Priority: Foundational
 
-Dependencies: 
+Dependencies: Having started the game
 
-Conflicts: 
+Conflicts: None
 
 Supporting Materials: 
 
-History: 
+History: N/A
 
 Requirement #: 11
 ------------------
 
 Requirement Type: Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: Playing the game
 
-Description: 
+Description: A test user shall be timed for the duration of their playtime with Puzzle Heart
 
-Rationale: 
+Rationale: An average time of completion is sought for testing purposes, so all test user play instances should be recorded
 
-Originator: 
+Originator: Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by utilizing a time-recording program or simple stopwatch for a test user's playtime duration
 
-Customer Satisfaction: 
+Customer Satisfaction: 2
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 3
 
-Priority: 
+Priority: Fundamental for testing
 
-Dependencies: 
+Dependencies: Playing the game
 
-Conflicts: 
+Conflicts: None
 
 Supporting Materials: 
 
-History: 
+History: Logged time to completion for each test user's test run
 
 Requirement #: 12
 ------------------
 
 Requirement Type: Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: Completing the game
 
-Description: 
+Description: A test user shall be surveyed on their experience of their playtime with Puzzle Heart
 
-Rationale: 
+Rationale: Feedback is required to improve the game, and so test user's should be asked about their experience, and their responses recorded
 
-Originator: 
+Originator: Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by utilizing a written or digital form sheet and submission system to gather test user feedback
 
-Customer Satisfaction: 
+Customer Satisfaction: 4
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 3
 
-Priority: 
+Priority: Fundamental for testing
 
-Dependencies: 
+Dependencies: Test user finishing a playtest session
 
-Conflicts: 
+Conflicts: None
 
 Supporting Materials: 
 
-History: 
+History: Feedback logged
 
 Requirement #: 13
 ------------------
 
 Requirement Type: Non-Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: Settings menu established
 
-Description: 
+Description: Players shall be able to adjust the volume level of in-game sounds and music
 
-Rationale: 
+Rationale: Players should be able to adjust the volume of the game to best suit their desired level
 
-Originator: 
+Originator: Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by determining that players can access the option to adjust volume, and ensure that the adjustment works as intended
 
-Customer Satisfaction: 
+Customer Satisfaction: 3
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 3
 
-Priority: 
+Priority: Secondary
 
-Dependencies: 
+Dependencies: None
 
-Conflicts: 
+Conflicts: None
 
 Supporting Materials: 
 
-History: 
+History: Development logs
 
 Requirement #: 14
 ------------------
 
 Requirement Type: Non-Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: Settings menu opened
 
-Description: 
+Description: Players shall be able to adjust the brightness of the game's visuals
 
-Rationale: 
+Rationale: Players should be able to adjust the brightness of the game to best suit their desired level
 
-Originator: 
+Originator: Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by determining that players can access the option to adjust brightness, and ensure that the adjustment works as intended
 
-Customer Satisfaction: 
+Customer Satisfaction: 3
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 3
 
-Priority: 
+Priority: Secondary
 
-Dependencies: 
+Dependencies: None
 
-Conflicts: 
+Conflicts: None
 
 Supporting Materials: 
 
-History: 
+History: Development Logs
 
 Requirement #: 15
 ------------------
 
 Requirement Type: Non-Functional
 
-Event/BUC/PUC #:
+Event/BUC/PUC #: Game is running
 
-Description: 
+Description: Players shall be able to experience the narrative of the game through its visual effects on screen
 
-Rationale: 
+Rationale: Players should be able to experience the story of Puzzle Heart purely through the game's visuals without audio being necessary
 
-Originator: 
+Originator: Developer
 
-Fit Criterion: 
+Fit Criterion: Testable by determining if narrative is effectively conveyed through the visual effects within the game
 
-Customer Satisfaction: 
+Customer Satisfaction: 4
 
-Customer Dissatisfaction: 
+Customer Dissatisfaction: 4
 
-Priority: 
+Priority: Primary
 
-Dependencies: 
+Dependencies: None
 
-Conflicts: 
+Conflicts: None
 
 Supporting Materials: 
 
-History: 
+History: Development Logs

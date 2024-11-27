@@ -1,19 +1,6 @@
 Proposal
 ========
 
-Problem Statement:
-------------------
-
-People should act more rationally and think more logically when looking at
-problems that can be solved, and this can be taught through the unassuming
-medium of a video game. Nearly every day, I see the consequences of people
-making illogical, irrational decisions made by people who should know better.
-
-I want to make people see the world in a different light; to be more open, and reasonable, to think logically, and I want to entertain. Through this mode
-of thinking, the world would be a kinder place, full of empathy, compassion, and understanding, and this is ideal state of affairs.
-
-My solution to this problem is the developmnt of a video game. My intention with this solution is to change the minds of those who experience it to solve the problem discussed above. 
-
 Student Name:
 -------------
 Brayden Kirkland.
@@ -30,6 +17,18 @@ Expected Graduation Date:
 -------------------------
 May, 2026.
 
+Problem Statement:
+------------------
+
+People should act more rationally and think more logically when looking at
+problems that can be solved, and this can be taught through the unassuming
+medium of a video game. Nearly every day, I see the consequences of people
+making illogical, irrational decisions made by people who should know better.
+
+I want to make people see the world in a different light; to be more open, and reasonable, to think logically, and I want to entertain. Through this mode
+of thinking, the world would be a kinder place, full of empathy, compassion, and understanding, and this is ideal state of affairs.
+
+My solution to this problem is the developmnt of a video game. My intention with this solution is to change the minds of those who experience it to solve the problem discussed above. 
 
 Project Description:
 --------------------

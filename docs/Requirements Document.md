@@ -1,6 +1,6 @@
 Requirements Document
 ========
-NOTES, DELETE LATER:
+NOTES:
 
 Functional requirements:
 1 moving character
@@ -66,10 +66,6 @@ Originator: Developer
 
 Fit Criterion: Testable by determining if player avatar is capable of movement upon game start
 
-Customer Satisfaction: 2
-
-Customer Dissatisfaction: 5
-
 Priority: Primary
 
 Dependencies: Functional game
@@ -94,10 +90,6 @@ Rationale: The player should be able to manipulate where their character looks i
 Originator:  Developer
 
 Fit Criterion: Testable by determining if player persepctive is capable of maneuvering upon game start
-
-Customer Satisfaction: 2
-
-Customer Dissatisfaction: 5
 
 Priority: Primary
 
@@ -124,10 +116,6 @@ Originator: Developer
 
 Fit Criterion: Testable by determining if player is able to interact with interactable objects in the game world upon game start
 
-Customer Satisfaction: 2
-
-Customer Dissatisfaction: 5
-
 Priority: Primary
 
 Dependencies: Functional game
@@ -152,10 +140,6 @@ Rationale: The player should be able to interact with their inventory in order t
 Originator: Developer
 
 Fit Criterion: Testable by determining if player is able to inspect and interact with their character's inventory upon game start
-
-Customer Satisfaction: 2
-
-Customer Dissatisfaction: 5
 
 Priority: Primary
 
@@ -182,10 +166,6 @@ Originator: Developer
 
 Fit Criterion: Testable by determining if player is able to pause the game environment upon game start
 
-Customer Satisfaction: 3
-
-Customer Dissatisfaction: 5
-
 Priority: Primary
 
 Dependencies: Functional game
@@ -210,10 +190,6 @@ Rationale: In order to play the Puzzle Heart game, a user should first have a ma
 Originator: Developer
 
 Fit Criterion: Testable by determining if a user's machine is fit to install and run the Puzzle Heart game
-
-Customer Satisfaction: 3
-
-Customer Dissatisfaction: 5
 
 Priority: Foundational
 
@@ -240,10 +216,6 @@ Originator: Developer
 
 Fit Criterion: Testable by determining if a user's copy of the game is able to be launched upon successful download
 
-Customer Satisfaction: 3
-
-Customer Dissatisfaction: 5
-
 Priority: Foundational
 
 Dependencies: Having a machine
@@ -268,10 +240,6 @@ Rationale: In order to run and play the game, it must first be successfully laun
 Originator: Developer
 
 Fit Criterion: Testable by determining if the game can be ran after launching
-
-Customer Satisfaction: 3
-
-Customer Dissatisfaction: 5
 
 Priority: Foundational
 
@@ -298,10 +266,6 @@ Originator: Developer
 
 Fit Criterion: Testable by determining if the game can be played after starting
 
-Customer Satisfaction: 2
-
-Customer Dissatisfaction: 5
-
 Priority: Foundational
 
 Dependencies: Having launched the game
@@ -326,10 +290,6 @@ Rationale: When a user wishes to exit the game, they should be freely able to do
 Originator: Developer
 
 Fit Criterion: Testable by determining if the game can be stopped and exited after starting
-
-Customer Satisfaction: 1
-
-Customer Dissatisfaction: 5
 
 Priority: Foundational
 
@@ -356,10 +316,6 @@ Originator: Developer
 
 Fit Criterion: Testable by utilizing a time-recording program or simple stopwatch for a test user's playtime duration
 
-Customer Satisfaction: 2
-
-Customer Dissatisfaction: 3
-
 Priority: Fundamental for testing
 
 Dependencies: Playing the game
@@ -384,10 +340,6 @@ Rationale: Feedback is required to improve the game, and so test user's should b
 Originator: Developer
 
 Fit Criterion: Testable by utilizing a written or digital form sheet and submission system to gather test user feedback
-
-Customer Satisfaction: 4
-
-Customer Dissatisfaction: 3
 
 Priority: Fundamental for testing
 
@@ -414,10 +366,6 @@ Originator: Developer
 
 Fit Criterion: Testable by determining that players can access the option to adjust volume, and ensure that the adjustment works as intended
 
-Customer Satisfaction: 3
-
-Customer Dissatisfaction: 3
-
 Priority: Secondary
 
 Dependencies: None
@@ -443,10 +391,6 @@ Originator: Developer
 
 Fit Criterion: Testable by determining that players can access the option to adjust brightness, and ensure that the adjustment works as intended
 
-Customer Satisfaction: 3
-
-Customer Dissatisfaction: 3
-
 Priority: Secondary
 
 Dependencies: None
@@ -471,10 +415,6 @@ Rationale: Players should be able to experience the story of Puzzle Heart purely
 Originator: Developer
 
 Fit Criterion: Testable by determining if narrative is effectively conveyed through the visual effects within the game
-
-Customer Satisfaction: 4
-
-Customer Dissatisfaction: 4
 
 Priority: Primary
 

@@ -16,15 +16,16 @@ Functional requirements:
 11 how to time the testing segments of the game,
 12 how to record feedback from testers,
 16 procedural generation,
-17 puzzles always possible,
-18 coding style puzzles,
-19 matching style puzzles,
-20 
+17 puzzles always possible
 
 Non-functional requirements:
 13 changing volume,
 14 changing brightness,
-15 presenting narrative
+15 presenting narrative,
+18 different kinds of puzzles,
+19 matching style puzzles,
+20 connecting point style puzzles,
+21 world seed
 
 The following template was created by Volere:
 
@@ -421,6 +422,156 @@ Rationale: Players should be able to experience the story of Puzzle Heart purely
 Originator: Developer
 
 Fit Criterion: Testable by determining if narrative is effectively conveyed through the visual effects within the game
+
+Priority: Primary
+
+Dependencies: None
+
+Conflicts: None
+
+Supporting Materials: 
+
+History: Development Logs
+
+Requirement #: 16
+------------------
+
+Requirement Type: Functional
+
+Event/BUC/PUC #: Game loading
+
+Description: The game world will be procedurally generated on startup, making every experience different in some capacity
+
+Rationale: The reason for this is to make every experience a unique one when playing Puzzle Heart
+
+Originator: Developer
+
+Fit Criterion: Testable by determining if game world is different in some way on every startup
+
+Priority: Primary
+
+Dependencies: Functional game
+
+Conflicts: None
+
+Supporting Materials: 
+
+History: Development Logs
+
+Requirement #: 17
+------------------
+
+Requirement Type: Functional
+
+Event/BUC/PUC #: Game loading
+
+Description: Puzzles in the game world shall always be solvable
+
+Rationale: Players should not get stuck on a puzzle that is impossible
+
+Originator: Developer
+
+Fit Criterion: 
+
+Priority: Primary
+
+Dependencies: Correctly completed procedural generation
+
+Conflicts: None
+
+Supporting Materials: 
+
+History: Development Logs
+
+Requirement #: 18
+------------------
+
+Requirement Type: Non-Functional
+
+Event/BUC/PUC #: Game development period
+
+Description: The game will be host to a myriad of different kinds of popular puzzle formats
+
+Rationale: Players should experience a variety of puzzle types rather than solving only one kind of puzzle for the entire game
+
+Originator: Developer
+
+Fit Criterion: 
+
+Priority: Primary
+
+Dependencies: None
+
+Conflicts: None
+
+Supporting Materials: 
+
+History: Development Logs
+
+Requirement #: 19
+------------------
+
+Requirement Type: Non-Functional
+
+Event/BUC/PUC #: Game development period
+
+Description: An example of one type of puzzle to be found in the game world are matching puzzles
+
+Rationale: Matching puzzles will challenge a player's visual perception and memory
+
+Originator: Developer
+
+Fit Criterion: 
+
+Priority: Primary
+
+Dependencies: None
+
+Conflicts: None
+
+Supporting Materials: 
+
+History: Development Logs
+
+Requirement #: 20
+------------------
+
+Requirement Type: Non-Functional
+
+Event/BUC/PUC #: Game development period
+
+Description: An example of one type of puzzle to be found in the game world are connecting point puzzles
+
+Rationale: Matching puzzles will challenge a player's problem solving skills
+
+Originator: Developer
+
+Fit Criterion: 
+
+Priority: Primary
+
+Dependencies: None
+
+Conflicts: None
+
+Supporting Materials: 
+
+History: Development Logs
+
+Requirement #: 21
+------------------
+
+Requirement Type: Non-Functional
+
+Event/BUC/PUC #: Game development period
+
+Description: Players shall be able to find and copy the world seed number that represents the procedurally generated game world of their experience
+
+Rationale: Players will be able to use this world seed as a key to replay past game worlds
+
+Originator: Developer
+
+Fit Criterion: 
 
 Priority: Primary
 

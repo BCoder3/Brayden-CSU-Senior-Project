@@ -3,22 +3,22 @@ Requirements Document
 NOTES:
 
 Functional requirements:
-1 moving character
-2 moving camera
-3 interacting with objects
-4 interacting with inventory
-5 pausing
-6 what machine to use
-7 how to download game
-8 how to launch game
-9 how to start game
-10 how to exit game
-11 how to time the testing segments of the game
+1 moving character,
+2 moving camera,
+3 interacting with objects,
+4 interacting with inventory,
+5 pausing,
+6 what machine to use,
+7 how to download game,
+8 how to launch game,
+9 how to start game,
+10 how to exit game,
+11 how to time the testing segments of the game,
 12 how to record feedback from testers
 
 Non-functional requirements:
-13 changing volume
-14 changing brightness
+13 changing volume,
+14 changing brightness,
 15 presenting narrative
 
 The following template was created by Volere:

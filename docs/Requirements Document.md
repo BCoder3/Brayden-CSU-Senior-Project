@@ -14,7 +14,12 @@ Functional requirements:
 9 how to start game,
 10 how to exit game,
 11 how to time the testing segments of the game,
-12 how to record feedback from testers
+12 how to record feedback from testers,
+16 procedural generation,
+17 puzzles always possible,
+18 coding style puzzles,
+19 matching style puzzles,
+20 
 
 Non-functional requirements:
 13 changing volume,

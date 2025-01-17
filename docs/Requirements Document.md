@@ -27,6 +27,7 @@ Non-functional requirements:
 15 presenting narrative
 
 The following template was created by Volere:
+
 Requirement #:
 ------------------
 

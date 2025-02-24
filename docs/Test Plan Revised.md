@@ -97,8 +97,8 @@ form, *scenarios*, scripts to read, and data collection methods.
 
 | #   | TEST ITEM | EXPECTED RESULTS | ACTUAL RESULTS | DATE |
 | --: | --------- | ---------------- | -------------- | ---- |
-|  1  |           |                  |                |      |
-|  2  |           |                  |                |      |
+|  1  | User can finish game               | Game should be able to be completed | To be determined | To be determined |
+|  2  | Time taken for user to finish game | Variable                            | To be determined | To be determined |
 
 
 Test Deliverables

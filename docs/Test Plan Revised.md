@@ -28,7 +28,7 @@ the flow of gameplay, and to ensure that every puzzle is sovlable.
 
 ### Features Not to Be Tested
 
-The engine of the game's creation does not need to be tested for in this test plan.
+The engine of the game's creation does not need to be tested in this test plan.
 
 
 UNIT TEST
@@ -84,10 +84,11 @@ Evaluate all integrations with locally developed shared libraries, with consumed
 USER-ACCEPTANCE TEST
 --------------------
 
-Verify that the solution works for potential user. Include the method (e.g.,
-heuristic, performance measures, thinking aloud, observation, questionnaire, 
-interviews, etc.), the number of participants and demographics, the concent
-form, *scenarios*, scripts to read, and data collection methods.
+In order to test for User-acceptance, users designated to test the Puzzle Heart 
+video game will be asked to complete the game at their own pace, and will be timed 
+from the start of their gameplay to their completion of the game. This will be used 
+to determine an average time of completion on the game itself, and users will then be 
+surveyed on their experience of the game.
 
 ### User-Acceptance Test Strategy
 
@@ -95,10 +96,11 @@ form, *scenarios*, scripts to read, and data collection methods.
 
 ### User-Acceptance Test Cases
 
-| #   |             TEST ITEM              |           EXPECTED RESULTS          |  ACTUAL RESULTS  |       DATE       |
-| --: | ---------------------------------- | ----------------------------------- | ---------------- | ---------------- |
-|  1  | User can finish game               | Game should be able to be completed | To be determined | To be determined |
-|  2  | Time taken for user to finish game | Variable                            | To be determined | To be determined |
+| #   |              TEST ITEM               |           EXPECTED RESULTS          |  ACTUAL RESULTS  |       DATE       |
+| --: | ------------------------------------ | ----------------------------------- | ---------------- | ---------------- |
+|  1  | User can finish game                 | Game should be able to be completed | To be determined | To be determined |
+|  2  | Time taken for user to finish game   | Variable                            | To be determined | To be determined |
+|  3  | User provides feedback on experience | Variable                            | To be determined | To be determined |
 
 
 Test Deliverables

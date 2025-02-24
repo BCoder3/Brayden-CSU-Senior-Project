@@ -75,10 +75,10 @@ Evaluate all integrations with locally developed shared libraries, with consumed
 
 ### Integration Test Cases
 
-| #   | OBJECTIVE | INPUT | EXPECTED RESULTS | TEST DELIVERABLES |
-| --: | --------- | ----- | ---------------- | ----------------- |
-|  1  |           |       |                  |                   |
-|  2  |           |       |                  |                   |
+| #   |    OBJECTIVE     |       INPUT      | EXPECTED RESULTS | TEST DELIVERABLES |
+| --: | ---------------- | ---------------- | ---------------- | ----------------- |
+|  1  | To be determined | To be determined | To be determined | To be determined  |
+|  2  | To be determined | To be determined | To be determined | To be determined  |
 
 
 USER-ACCEPTANCE TEST
@@ -95,8 +95,8 @@ form, *scenarios*, scripts to read, and data collection methods.
 
 ### User-Acceptance Test Cases
 
-| #   | TEST ITEM | EXPECTED RESULTS | ACTUAL RESULTS | DATE |
-| --: | --------- | ---------------- | -------------- | ---- |
+| #   |             TEST ITEM              |           EXPECTED RESULTS          |  ACTUAL RESULTS  |       DATE       |
+| --: | ---------------------------------- | ----------------------------------- | ---------------- | ---------------- |
 |  1  | User can finish game               | Game should be able to be completed | To be determined | To be determined |
 |  2  | Time taken for user to finish game | Variable                            | To be determined | To be determined |
 
@@ -104,28 +104,25 @@ form, *scenarios*, scripts to read, and data collection methods.
 Test Deliverables
 -----------------
 
-(List test deliverables, and links to them if available, including the following.)
-
--   Test Plan (this document itself)
--   Test Scripts
--   Defect/Enhancement Logs
--   Test Result Reports
+-   Test Plan
+-   Test Scripts are to be determined
+-   Defect/Enhancement Logs are to be determined
+-   Test Result Reports are to be determined
 
 
 Schedule
 --------
 
-(Provide a summary of the testing schedule, specifying key test milestones, 
-and/or provide a link to the detailed schedule.)
+Schedule is to be determined
 
 Risks
 -----
 
--   (If any risks have been identified, list them here.)
--   (Specify the mitigation plan and the contingency plan for each risk.)
+-   Machine used to run the game for the intentions to complete the objectives of this test plan may be unfit in terms of hardware requirements for gameplay.
+-   In order to mitigate this risk, both the game should be optimized to run on lower-hardware machines and the machine chosen to run the test cases should be fit     if possible
 
 
 Appendix
 --------
 
-(Include any information that is helpful to reference.)
+See Requirements Document for specifics on development process and the goals of this project.

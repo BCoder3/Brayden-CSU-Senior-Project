@@ -12,19 +12,23 @@ Its purpose is for entertainment and to challenge the user's problem-solving abi
 
 ### Testing Objectives
 
-Provide an overview of the test plan including a concise statement about the 
-purpose of the testing to be performed.
+The purpose of the Puzzle Heart video game study is to evaluate the
+problem-solving skills required to complete the game, with every playthrough
+being timed. Test users will be instructed to complete the game to the best
+of their ability and as fast as they can. Test operators will also be given a
+short survey to complete after their experience for feedback purposes.
 
 ### Features to be Tested
 
-(List the features of the software/product to be tested with references to the 
-Requirements and/or Design specifications of the features to be tested.)
+The running state of the Puzzle Heart video game is the main feature to be tested. 
+Within this facet of the project there are many other subfeatures to be tested, 
+such as ensuring that the procedural generation of the world does not hinder 
+the flow of gameplay, and to ensure that every puzzle is sovlable.
 
 
 ### Features Not to Be Tested
 
-(List the features of the software/product which will not be tested. Specify the
-reasons these features won’t be tested.)
+The engine of the game's creation does not need to be tested for in this test plan.
 
 
 UNIT TEST
@@ -37,10 +41,10 @@ Evaluate new features and bug fixes introduced in this release.
 
 ### UNIT TEST CASES
 
-| \#  | OBJECTIVE | INPUT | EXPECTED RESULTS | TEST DELIVERABLES |
-| --: | --------- | ----- | ---------------- | ----------------- |
-|  1  |           |       |                  |                   |
-|  2  |           |       |                  |                   |
+| \#  |          OBJECTIVE          |                   INPUT                    |         EXPECTED RESULTS        |   TEST DELIVERABLES   |
+| --: | --------------------------- | ------------------------------------------ | ------------------------------- | --------------------- |
+|  1  | Check procedural generation | Wave function collapse feature             | Generated game world functions  | Playable game world   |
+|  2  | Check puzzle solvability    | Puzzle coding + procedural generation      | Generated puzzles can be solved | Game can be completed |
 
 
 REGRESSION TEST

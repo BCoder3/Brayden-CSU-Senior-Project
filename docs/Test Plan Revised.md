@@ -3,11 +3,12 @@ IDENTIFICATION INFORMATION
 
 ### Product
 
-- **Product Name:** (project name)
+- **Product Name:** Puzzle Heart Video Game
 
 ### Project Description
 
-(A short concise project description).
+Puzzle Heart is a video game that revolves around solving puzzles in a procedurally generated, digital world. 
+Its purpose is for entertainment and to challenge the user's problem-solving abilities.
 
 ### Testing Objectives
 

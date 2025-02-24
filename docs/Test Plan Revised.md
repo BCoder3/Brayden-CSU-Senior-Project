@@ -58,10 +58,10 @@ Evaluate all reports introduced in previous releases.
 
 ### Regression Test Cases
 
-| #   | OBJECTIVE | INPUT | EXPECTED RESULTS | OBSERVED |
-| --: | --------- | ----- | ---------------- | -------- |
-|  1  |           |       |                  |          |
-|  2  |           |       |                  |          |
+| #   |     OBJECTIVE      |       INPUT       |         EXPECTED RESULTS         |      OBSERVED      |
+| --: | ------------------ | ----------------- | -------------------------------- | ------------------ |
+|  1  | Game can be run    | Developer feature | Game runs without issue          | Game runs          |
+|  2  | Game can be edited | Developer feature | Game can be edited without issue | Game can be edited |
 
 
 INTEGRATION TEST

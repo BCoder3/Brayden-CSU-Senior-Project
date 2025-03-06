@@ -43,7 +43,7 @@ Evaluate new features and bug fixes introduced in this release.
 
 | \#  |          OBJECTIVE          |                   INPUT                    |         EXPECTED RESULTS        |   TEST DELIVERABLES   |
 | --: | --------------------------- | ------------------------------------------ | ------------------------------- | --------------------- |
-|  1  | Check procedural generation | Wave function collapse feature             | Generated game world functions  | Playable game world   |
+|  1  | Check procedural generation | Procedural Generation code                 | Generated game world functions  | Playable game world   |
 |  2  | Check puzzle solvability    | Puzzle coding + procedural generation      | Generated puzzles can be solved | Game can be completed |
 
 

@@ -41,10 +41,20 @@ Evaluate new features and bug fixes introduced in this release.
 
 ### UNIT TEST CASES
 
-| \#  |          OBJECTIVE          |                   INPUT                    |         EXPECTED RESULTS        |   TEST DELIVERABLES   |
-| --: | --------------------------- | ------------------------------------------ | ------------------------------- | --------------------- |
-|  1  | Check procedural generation | Procedural Generation code                 | Generated game world functions  | Playable game world   |
-|  2  | Check puzzle solvability    | Puzzle coding + procedural generation      | Generated puzzles can be solved | Game can be completed |
+| \#  |          OBJECTIVE          |                   INPUT                    |         EXPECTED RESULTS        |     TEST DELIVERABLES     |
+| --: | --------------------------- | ------------------------------------------ | ------------------------------- | ------------------------- |
+|  1  | Check procedural generation | Procedural Generation code                 | Generated game world functions  | Playable game world       |
+|  2  | Check puzzle solvability    | Puzzle coding + procedural generation      | Generated puzzles can be solved | Game can be completed     |
+|  3  | Check player movement       | W key press                                | Player avatar moves forward     | Player can move forward   |
+|  4  | Check player movement       | A key press                                | Player avatar strafes left      | Player can move left      |
+|  5  | Check player movement       | S key press                                | Player avatar moves backward    | Player can move backward  |
+|  7  | Check player movement       | D key press                                | Player avatar strafes right     | Player can move right     |
+|  8  | Check world interaction     | E key press                                | Player interacts with object    | Player can interact       |
+|  9  | Check camera movement       | Mouse movement                             | Camera moves with mouse motion  | Player can look around    |
+| 10  | Check option selection      | Left mouse button click                    | Player selects item desired     | Player can select items   |
+| 11  | Check pause menu display    | Esc key press                              | Player opens pause menu         | Player can open menu      |
+| 12  | Check player inventory      | I key press                                | Player opens inventory menu     | Player can open inventory |
+| 13  | Check timer on screen       | T key press                                | Game displays active timer      | Player can engage timer   |
 
 
 REGRESSION TEST

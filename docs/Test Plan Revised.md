@@ -74,23 +74,6 @@ Evaluate all reports introduced in previous releases.
 |  2  | Game can be edited | Developer feature | Game can be edited without issue | Game can be edited |
 
 
-INTEGRATION TEST
-----------------
-
-Combine individual software modules and test as a group.
-
-### Integration Test Strategy and Extent of Integration Testing
-
-Evaluate all integrations with locally developed shared libraries, with consumed services, and other touch points.
-
-### Integration Test Cases
-
-| #   |    OBJECTIVE     |       INPUT      | EXPECTED RESULTS | TEST DELIVERABLES |
-| --: | ---------------- | ---------------- | ---------------- | ----------------- |
-|  1  | To be determined | To be determined | To be determined | To be determined  |
-|  2  | To be determined | To be determined | To be determined | To be determined  |
-
-
 USER-ACCEPTANCE TEST
 --------------------
 

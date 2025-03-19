@@ -89,11 +89,11 @@ surveyed on their experience of the game.
 
 ### User-Acceptance Test Cases
 
-| #   |              TEST ITEM               |           EXPECTED RESULTS          |  ACTUAL RESULTS  |       DATE       |
-| --: | ------------------------------------ | ----------------------------------- | ---------------- | ---------------- |
-|  1  | User can finish game                 | Game should be able to be completed | To be determined | To be determined |
-|  2  | Time taken for user to finish game   | Variable                            | To be determined | To be determined |
-|  3  | User provides feedback on experience | Variable                            | To be determined | To be determined |
+| #   |              TEST ITEM               |             EXPECTED RESULTS            |  ACTUAL RESULTS  |       DATE       |
+| --: | ------------------------------------ | --------------------------------------- | ---------------- | ---------------- |
+|  1  | User can finish game                 | Game should be able to be completed     | To be determined | To be determined |
+|  2  | Time taken for user to finish game   | Variable by tester, around 8-12 minutes | To be determined | To be determined |
+|  3  | User provides feedback on experience | Variable by tester, expecting positive  | To be determined | To be determined |
 
 
 Test Deliverables

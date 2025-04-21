@@ -43,7 +43,7 @@ Evaluate new features and bug fixes introduced in this release.
 
 | \#  |          OBJECTIVE          |                   INPUT                    |         EXPECTED RESULTS        |     TEST DELIVERABLES     |
 | --: | --------------------------- | ------------------------------------------ | ------------------------------- | ------------------------- |
-|  1  | Check procedural generation | Procedural Generation code                 | Generated game world functions  | Playable game world       |
+|  1  | Check procedural generation | Procedural Generation code | Generated game world functions and map randomization | Playable game world |
 |  2  | Check puzzle solvability    | Puzzle coding + procedural generation      | Generated puzzles can be solved | Game can be completed     |
 |  3  | Check player movement       | W key press                                | Player avatar moves forward     | Player can move forward   |
 |  4  | Check player movement       | A key press                                | Player avatar strafes left      | Player can move left      |
@@ -55,23 +55,10 @@ Evaluate new features and bug fixes introduced in this release.
 | 11  | Check pause menu display    | Esc key press                              | Player opens pause menu         | Player can open menu      |
 | 12  | Check player inventory      | I key press                                | Player opens inventory menu     | Player can open inventory |
 | 13  | Check timer on screen       | T key press                                | Game displays active timer      | Player can engage timer   |
+| 14  | Game can be run             | Developer feature                          | Game runs without issue         | Game runs                 |
+| 15  | Game can be edited          | Developer feature                          | Game can be edited without issue| Game can be edited        |
+| 15  | Game can be edited          | Developer feature                          | Game can be edited without issue| Game can be edited        |
 
-
-REGRESSION TEST
----------------
-
-Ensure that previously developed and tested software still performs after change.
-
-### Regression Test Strategy
-
-Evaluate all reports introduced in previous releases.
-
-### Regression Test Cases
-
-| #   |     OBJECTIVE      |       INPUT       |         EXPECTED RESULTS         |      OBSERVED      |
-| --: | ------------------ | ----------------- | -------------------------------- | ------------------ |
-|  1  | Game can be run    | Developer feature | Game runs without issue          | Game runs          |
-|  2  | Game can be edited | Developer feature | Game can be edited without issue | Game can be edited |
 
 
 USER-ACCEPTANCE TEST

@@ -72,7 +72,7 @@ surveyed on their experience of the game.
 
 ### User-Acceptance Test Strategy
 
-(Explain how user acceptance testing will be accomplished.)
+The user will be informed of their goal to complete within the game, and then start the game. The game will always be able to be completed, and the only variable is the terrain that has been procedurally generated - including the seed of the world - and a timer that will record how long it takes for the user to complete the objective.
 
 ### User-Acceptance Test Cases
 
